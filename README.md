@@ -3,6 +3,12 @@ The goal of this project is to provide automation capabilities to functional tes
 
 If you aren't using Azure Devops Test Plans as your Test Case Management tool, this article will not be beneficial.
 
+### Prerequisites
+* Azure Devops Server (On-premises / Cloud) 
+* Visual Studio >= 2022
+* NUnit Framework >= 3.13.2
+* Azure Devops PAT token account to access the Azure Devops Rest API for updating of test case results. 
+
 ## Authors
 
 [Ashley Dhevalall](https://github.com/AshleyDhevalall)
